@@ -1,0 +1,25 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+jobportal-backend/target/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Local backend credentials
+jobportal-backend/src/main/resources/application.properties
+
+# Editor and logs
+.vscode/
+.idea/
+*.log
+
+# Root dependencies
+/node_modules/
