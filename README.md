@@ -1,10 +1,6 @@
 # JobConnect-Job-Portal
 A full-stack job portal built with React, Java Spring Boot, and MySQL, featuring job search, PDF resume uploads, recruiter application management, and email notifications.
 
-# JobConnect – Job Portal Application
-
-A full-stack job portal application built to connect job seekers and recruiters through a simple and user-friendly interface.
-
 ## Features
 
 - Job search and filtering by location and category
